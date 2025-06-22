@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Infraestructure\\Lab11-MiguelQuispe.Infraestructure.csproj": {}
+    "C:\\Users\\Bryan\\RiderProjects\\DAEA_LAB10-MIGUELQUISPE\\Lab11-MiguelQuispe.Infraestructure.csproj": {}
   },
   "projects": {
-    "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Domain\\Lab11-MiguelQuispe.Domain.csproj": {
+    "C:\\Users\\Bryan\\RiderProjects\\DAEA_LAB10-MIGUELQUISPE\\Lab11-MiguelQuispe.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Domain\\Lab11-MiguelQuispe.Domain.csproj",
-        "projectName": "Lab11-MiguelQuispe.Domain",
-        "projectPath": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Domain\\Lab11-MiguelQuispe.Domain.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Domain\\obj\\",
+        "projectUniqueName": "C:\\Users\\Bryan\\RiderProjects\\DAEA_LAB10-MIGUELQUISPE\\Lab11-MiguelQuispe.Infraestructure.csproj",
+        "projectName": "Lab11-MiguelQuispe.Infraestructure",
+        "projectPath": "C:\\Users\\Bryan\\RiderProjects\\DAEA_LAB10-MIGUELQUISPE\\Lab11-MiguelQuispe.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bryan\\RiderProjects\\DAEA_LAB10-MIGUELQUISPE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,69 +26,6 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
-      },
-      "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Infraestructure\\Lab11-MiguelQuispe.Infraestructure.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Infraestructure\\Lab11-MiguelQuispe.Infraestructure.csproj",
-        "projectName": "Lab11-MiguelQuispe.Infraestructure",
-        "projectPath": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Infraestructure\\Lab11-MiguelQuispe.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Infraestructure\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net9.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
-            "projectReferences": {
-              "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Domain\\Lab11-MiguelQuispe.Domain.csproj": {
-                "projectPath": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Domain\\Lab11-MiguelQuispe.Domain.csproj"
-              }
-            }
           }
         },
         "warningProperties": {
@@ -164,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Bryan\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

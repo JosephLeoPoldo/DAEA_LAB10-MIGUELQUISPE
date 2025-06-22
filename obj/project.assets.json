@@ -1382,16 +1382,6 @@
         "runtime": {
           "lib/net9.0/ZstdSharp.dll": {}
         }
-      },
-      "Lab11-MiguelQuispe.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "compile": {
-          "bin/placeholder/Lab11-MiguelQuispe.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Lab11-MiguelQuispe.Domain.dll": {}
-        }
       }
     }
   },
@@ -4375,18 +4365,12 @@
         "zstdsharp.port.0.8.5.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
-    },
-    "Lab11-MiguelQuispe.Domain/1.0.0": {
-      "type": "project",
-      "path": "../Lab11-MiguelQuispe.Domain/Lab11-MiguelQuispe.Domain.csproj",
-      "msbuildProject": "../Lab11-MiguelQuispe.Domain/Lab11-MiguelQuispe.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "AutoMapper >= 12.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
-      "Lab11-MiguelQuispe.Domain >= 1.0.0",
       "MediatR >= 12.5.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0",
       "Microsoft.EntityFrameworkCore >= 9.0.5",
@@ -4397,19 +4381,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\Bryan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Infraestructure\\Lab11-MiguelQuispe.Infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\Bryan\\RiderProjects\\DAEA_LAB10-MIGUELQUISPE\\Lab11-MiguelQuispe.Infraestructure.csproj",
       "projectName": "Lab11-MiguelQuispe.Infraestructure",
-      "projectPath": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Infraestructure\\Lab11-MiguelQuispe.Infraestructure.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Infraestructure\\obj\\",
+      "projectPath": "C:\\Users\\Bryan\\RiderProjects\\DAEA_LAB10-MIGUELQUISPE\\Lab11-MiguelQuispe.Infraestructure.csproj",
+      "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bryan\\RiderProjects\\DAEA_LAB10-MIGUELQUISPE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -4420,11 +4404,7 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {
-            "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Domain\\Lab11-MiguelQuispe.Domain.csproj": {
-              "projectPath": "D:\\TECSUP-6SEMESTRE\\Desarollo de aplicaciones empresariales avanzado\\Semana11\\Lab11-MiguelQuispe\\Lab11-MiguelQuispe.Domain\\Lab11-MiguelQuispe.Domain.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -4500,7 +4480,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Bryan\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -4509,7 +4489,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.5.0 was resolved.",
+      "message": "Se detectó una versión del paquete fuera de la restricción de dependencia: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requiere MediatR (>= 11.0.0 && < 12.0.0), pero la versión MediatR 12.5.0 ya se resolvió.",
       "libraryId": "MediatR",
       "targetGraphs": [
         "net9.0"

@@ -15,3 +15,12 @@ D:\TECSUP-6SEMESTRE\Desarollo de aplicaciones empresariales avanzado\Semana11\La
 D:\TECSUP-6SEMESTRE\Desarollo de aplicaciones empresariales avanzado\Semana11\Lab11-MiguelQuispe\Lab11-MiguelQuispe.Infraestructure\obj\Debug\net9.0\Lab11-MiguelQuispe.Infraestructure.pdb
 D:\TECSUP-6SEMESTRE\Desarollo de aplicaciones empresariales avanzado\Semana11\Lab11-MiguelQuispe\Lab11-MiguelQuispe.Infraestructure\obj\Debug\net9.0\Lab11-MiguelQuispe.Infraestructure.genruntimeconfig.cache
 D:\TECSUP-6SEMESTRE\Desarollo de aplicaciones empresariales avanzado\Semana11\Lab11-MiguelQuispe\Lab11-MiguelQuispe.Infraestructure\obj\Debug\net9.0\ref\Lab11-MiguelQuispe.Infraestructure.dll
+C:\Users\Bryan\RiderProjects\DAEA_LAB10-MIGUELQUISPE\obj\Debug\net9.0\Lab11-MiguelQuispe.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Bryan\RiderProjects\DAEA_LAB10-MIGUELQUISPE\obj\Debug\net9.0\Lab11-MiguelQuispe.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\RiderProjects\DAEA_LAB10-MIGUELQUISPE\obj\Debug\net9.0\Lab11-MiguelQuispe.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Bryan\RiderProjects\DAEA_LAB10-MIGUELQUISPE\obj\Debug\net9.0\Lab11-MiguelQuispe.Infraestructure.AssemblyInfo.cs
+C:\Users\Bryan\RiderProjects\DAEA_LAB10-MIGUELQUISPE\obj\Debug\net9.0\Lab11-MiguelQuispe.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\RiderProjects\DAEA_LAB10-MIGUELQUISPE\obj\Debug\net9.0\Lab11-MiguelQuispe.Infraestructure.sourcelink.json
+C:\Users\Bryan\RiderProjects\DAEA_LAB10-MIGUELQUISPE\obj\Debug\net9.0\Lab11-MiguelQuispe.Infraestructure.dll
+C:\Users\Bryan\RiderProjects\DAEA_LAB10-MIGUELQUISPE\obj\Debug\net9.0\refint\Lab11-MiguelQuispe.Infraestructure.dll
+C:\Users\Bryan\RiderProjects\DAEA_LAB10-MIGUELQUISPE\obj\Debug\net9.0\Lab11-MiguelQuispe.Infraestructure.pdb
